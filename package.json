@@ -1,0 +1,30 @@
+{
+  "name": "object-ops",
+  "version": "1.0.0",
+  "description": "Chainable, path-based modifying operations for JavaScript Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getconversio/object-ops.git"
+  },
+  "keywords": [
+    "objects",
+    "operations",
+    "path",
+    "chainable"
+  ],
+  "author": "Conversio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getconversio/object-ops/issues"
+  },
+  "homepage": "https://github.com/getconversio/object-ops#readme",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "should": "^11.2.0",
+    "sinon": "^1.17.7"
+  }
+}

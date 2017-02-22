@@ -1,6 +1,6 @@
 {
   "name": "object-ops",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chainable, path-based modifying operations for JavaScript Objects.",
   "main": "index.js",
   "scripts": {

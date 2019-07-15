@@ -1,6 +1,6 @@
 'use strict';
 
-const test = require('ava').test,
+const { test } = require('ava'),
   index = require('../'),
   objOps = require('../lib/objectOps');
 
